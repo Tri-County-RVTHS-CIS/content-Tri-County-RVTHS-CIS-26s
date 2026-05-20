@@ -1,7 +1,7 @@
 {
   "blocks": [
     {
-      "id": "7d216f19-23c1-4c93-8fcd-36e2b6cc7e44",
+      "id": "479253b5-fc26-4f20-97e1-259874a0aa8a",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
@@ -11,10 +11,21 @@
       "content": [
         {
           "type": "text",
-          "text": "Add your content here...",
+          "text": "This test page is intended to see what it looks like when linked to an assignment.",
           "styles": {}
         }
       ],
+      "children": []
+    },
+    {
+      "id": "afec6d52-43a6-4c1a-8fea-58f0f6530ffb",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
       "children": []
     }
   ],
