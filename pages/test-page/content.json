@@ -1,0 +1,25 @@
+{
+  "blocks": [
+    {
+      "id": "7d216f19-23c1-4c93-8fcd-36e2b6cc7e44",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add your content here...",
+          "styles": {}
+        }
+      ],
+      "children": []
+    }
+  ],
+  "coverImage": {
+    "url": "https://raw.githubusercontent.com/Tri-County-RVTHS-CIS/content-Tri-County-RVTHS-CIS-26s/main/pages/test-page/assets/1779279633836-cis-sandbox-banner.png",
+    "position": 50
+  }
+}
