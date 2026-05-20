@@ -5,16 +5,16 @@
       "slides": [],
       "assignments": {
         "the-basics-of-github": {
-          "pages": [],
+          "pages": [
+            "test-page"
+          ],
           "slides": []
         }
       }
     }
   },
   "general": {
-    "pages": [
-      "test-page"
-    ],
+    "pages": [],
     "slides": []
   }
 }
