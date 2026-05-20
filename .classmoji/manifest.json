@@ -1,0 +1,20 @@
+{
+  "modules": {
+    "introduction-to-github": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "the-basics-of-github": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "test-page"
+    ],
+    "slides": []
+  }
+}
